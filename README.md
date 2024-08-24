@@ -53,7 +53,9 @@ This repo contains colour data for the [RAL colour palette](https://www.ralcolor
 
 This data was scraped from the corresponding colour palette pages on the [RAL Colour Chart](https://www.ralcolorchart.com/ral-colors) website.
 
-Due to the size of the data I have not checked every single colour, so there may be some errors in the data, but I dont think there will be as I the system is the same and the data I have checked looks good.
+Due to the size of the data I have not checked every single colour, so there may be some errors in the data, but I dont think there will be as the system doesn't change and the data I have checked looks good.
+
+Not every colour system has a one-to-one correspondence with the others, so some values may not be exactly the same across all systems, but they will be as close as possible.
 
 Feel free to raise an issue if you find something that seems off.
 
